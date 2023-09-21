@@ -1,5 +1,3 @@
-#dodo дописать функцию самой игры
-
 import argparse
 import random
 
